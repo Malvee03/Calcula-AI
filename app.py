@@ -539,7 +539,7 @@ with st.sidebar:
     st.divider()
 
     st.markdown(
-        '<div class="sidebar-label">Tópicos</div>'
+        '<div class="sidebar-label">Tópicos Disponíveis</div>'
         '<div class="sidebar-item">Cálculo I e II</div>'
         '<div class="sidebar-item">Álgebra linear</div>'
         '<div class="sidebar-item">Matemática financeira</div>'
